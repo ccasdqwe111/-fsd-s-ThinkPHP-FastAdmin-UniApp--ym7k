@@ -14,7 +14,6 @@ LBS定位点餐与堂食外卖一体化场景融合
 
 门店可独立设置营业时间、休息状态和接单策略。营业时间内门店正常接收堂食和外卖订单；休息状态下用户可浏览商品但无法下单。系统支持预约订单，用户可指定取餐或送达时间，门店按预约时间安排制作。LBS定位点餐、堂食扫码和外卖配送一体化设计使茶饮连锁系统覆盖全场景点餐需求，统一订单中心和灵活接单策略是保障多场景高效履约的技术核心。
 
-![Uploading 2025070419035426.png…]()
 <img width="1018" height="1024" alt="2025070419034046" src="https://github.com/user-attachments/assets/f0022ef6-bf35-4d90-8711-18b810542746" />
 <img width="1024" height="988" alt="2025070419032222" src="https://github.com/user-attachments/assets/bede0b60-e76e-41e9-aabf-eba8f3682114" />
 <img width="1024" height="994" alt="2025070419041014" src="https://github.com/user-attachments/assets/ce2aed5f-359f-493e-827f-c3143f779de3" />
